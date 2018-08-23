@@ -1,6 +1,7 @@
 # Elmit
+Elm is a functional programming language in which you can create webbased programs. It is an alternative for Javascript frameworks like React, Angular, or Vue. 
 
-This is a basic Elm program it shows the elegant syntax of this programming language.
+This basic Elm program shows the elegant syntax of this programming language.
 
 To run this program you need to execute the following steps:
 
